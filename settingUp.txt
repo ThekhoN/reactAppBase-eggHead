@@ -1,0 +1,13 @@
+REACT - eggHead.io:
+babel installed 
+webpack installed
+webpack dev server installed
+
+structure:
+
+node_modules
+App.js
+index.html
+main.js
+package.json
+webpack.config.js
